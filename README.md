@@ -255,7 +255,7 @@ pytest -v --cov=. --cov-report=html
 ## 🎯 Hackathon Deliverables
 
 ### 📊 Presentation Materials
-- **PowerPoint Presentation**: [InnerCalm_Hackathon_Presentation.pptx](./docs/InnerCalm_Hackathon_Presentation.pptx)
+- **PowerPoint Presentation**: [InnerCalm_Hackathon_Presentation.pptx](./InnerCalm_ AI-Driven Emotional Healing & Trauma Recovery.pptx)
   - Problem statement analysis and market research
   - Solution architecture and technical innovation
   - AI-driven features and competitive advantages
