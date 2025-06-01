@@ -4,6 +4,13 @@
 
 InnerCalm is a comprehensive AI-driven solution for emotional healing and trauma recovery that addresses the critical need for accessible, personalized mental health support. Our platform combines cutting-edge AI technology with evidence-based therapeutic approaches to help individuals recognize, process, and heal from emotional wounds and unresolved trauma.
 
+## 🎥 Quick Access to Deliverables
+
+| 📋 **Presentation** | 🎬 **Demo Video** |
+|:---:|:---:|
+| [📊 PowerPoint Slides](./InnerCalm_%20AI-Driven%20Emotional%20Healing%20&%20Trauma%20Recovery.pptx) | [🎥 Product Demo](./InnerCalm%20-%20Your%20AI%20Mental%20Health%20Companion.mp4) |
+| Complete solution overview, technical architecture, and business model | Full user journey walkthrough with live AI features |
+
 ## 🎯 Problem Statement
 
 **Challenge**: Emotional distress from unresolved trauma affects millions globally, yet access to personalized, immediate mental health support remains limited. Traditional therapy is often expensive, has long wait times, and may not provide the continuous support needed for emotional healing.
@@ -255,19 +262,23 @@ pytest -v --cov=. --cov-report=html
 ## 🎯 Hackathon Deliverables
 
 ### 📊 Presentation Materials
-- **PowerPoint Presentation**: [InnerCalm_Hackathon_Presentation.pptx](./InnerCalm_ AI-Driven Emotional Healing & Trauma Recovery.pptx)
+- **PowerPoint Presentation**: [InnerCalm_ AI-Driven Emotional Healing & Trauma Recovery.pptx](./InnerCalm_%20AI-Driven%20Emotional%20Healing%20&%20Trauma%20Recovery.pptx)
   - Problem statement analysis and market research
   - Solution architecture and technical innovation
   - AI-driven features and competitive advantages
   - Business model and scalability roadmap
+  - Live demo screenshots and user journey flows
+  - Technical implementation details and AI integration
 
 ### 🎬 Demo Video
-- **Product Demo**: [InnerCalm_Demo_Video.mp4](./docs/InnerCalm_Demo_Video.mp4)
+- **Product Demo**: [InnerCalm - Your AI Mental Health Companion.mp4](./InnerCalm%20-%20Your%20AI%20Mental%20Health%20Companion.mp4)
   - Complete user journey walkthrough
-  - Voice journaling with real-time emotion analysis
+  - Voice journaling with real-time emotion analysis powered by Hume AI
   - Community healing circles demonstration
   - Therapist portal and professional integration
   - AI-generated emotion art showcase
+  - Real-time sentiment analysis and AI companion interaction
+  - Mobile-responsive design and dark mode features
 
 ### 📈 Impact Metrics
 - **Emotional Healing Effectiveness**: 87.5% accuracy in emotion detection
