@@ -389,13 +389,11 @@ class InnerAllyAgent:
 ## 📞 Contact & Support
 
 ### Development Team
-- **Project Lead**: [Your Name] - [email@example.com]
-- **AI/ML Engineer**: [Team Member] - [email@example.com]
-- **Frontend Developer**: [Team Member] - [email@example.com]
-- **Backend Developer**: [Team Member] - [email@example.com]
+- **Project Lead**: [Alfred Itodole] - [itodolealfredonuh@gmail.com]
+- **AI/ML/Fullstack Engineer**: [Yuguda Muhammed] - [elemenx93@gmail.com]
 
 ### Resources
-- **GitHub Repository**: https://github.com/your-org/inner-calm
+- **GitHub Repository**: https://github.com/yuguda999/inner-calm
 - **Documentation**: https://docs.innercalm.ai
 - **Demo Environment**: https://demo.innercalm.ai
 - **Support Email**: support@innercalm.ai
