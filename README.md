@@ -8,7 +8,7 @@ InnerCalm is a comprehensive AI-driven solution for emotional healing and trauma
 
 | 📋 **Presentation** | 🎬 **Demo Video** |
 |:---:|:---:|
-| [📊 PowerPoint Slides](./InnerCalm_%20AI-Driven%20Emotional%20Healing%20&%20Trauma%20Recovery.pptx) | [🎥 Product Demo](./InnerCalm%20-%20Your%20AI%20Mental%20Health%20Companion.mp4) |
+| [📊 PowerPoint Slides](./InnerCalm_%20AI-Driven%20Emotional%20Healing%20&%20Trauma%20Recovery.pptx) | [🎥 Product Demo](./InnerCalm%20-%20Your%20AI%20Mental%20Health%20Companion%20(2).mp4) |
 | Complete solution overview, technical architecture, and business model | Full user journey walkthrough with live AI features |
 
 ## 🎯 Problem Statement
